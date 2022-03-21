@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Tamanna3022
+- 👋 Hi, I’m @Tamanna2211
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning advance concepts of frontend
 - 💞️ I’m looking to collaborate on projects based on front end and full stack
